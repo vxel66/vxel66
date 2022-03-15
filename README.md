@@ -16,10 +16,10 @@
 
 ## Project
 
-📜 <a href="https://github.com/yongbeomj/ezen-pc-zone">피시방 : 피시방 이용자 및 관리자의 편의성 증진 (Fxml)</a> <br><br>
-📜 <a href="https://github.com/jihy1218/JSP_PROJECT">채팅방 : 1대1 채팅방 개설 및 다중 채팅지원  (Jsp)</a>   <br><br>
-📜 <a href="https://github.com/vxel66/subway">지하철 : 실시간 도착 예정 시간 제공  (Spring)</a> <br><br>
-📜 <a href="https://github.com/jihy1218/movie">영화관 : 영화관 이용자 및 관리자의 편의성 증진  (Spring)<br><br>
+📜 <a href="https://github.com/yongbeomj/ezen-pc-zone">피시방 : 피시방 이용자 및 관리자의 편의성 증진</a> <br><br>
+📜 <a href="https://github.com/jihy1218/JSP_PROJECT">채팅방 : 1대1 채팅방 개설 및 다중 채팅지원</a>   <br><br>
+📜 <a href="https://github.com/vxel66/subway">지하철 : 실시간 도착 예정 시간 제공</a> <br><br>
+📜 <a href="https://github.com/jihy1218/movie">영화관 : 영화관 이용자 및 관리자의 편의성 증진<br><br>
 
 ## Study
 
