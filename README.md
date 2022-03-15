@@ -16,7 +16,8 @@
 
 ## Project
 <br>
-📜 [피시방 : 피시방 이용자 및 관리자의 편의성 증진](https://github.com/yongbeomj/ezen-pc-zone) (2021.11.05 ~ 2021.11.22) <br><br>
+[Google](http://www.google.com "구글")
+📜 [피시방 : 피시방 이용자 및 관리자의 편의성 증진](https://github.com/yongbeomj/ezen-pc-zone) <br><br>
 📜 [채팅방 : 1대1 채팅방 개설 및 다중 채팅지원](https://github.com/jihy1218/JSP_PROJECT)   <br><br>
 📜 [지하철 : 실시간 도착 예정 시간 제공](https://github.com/vxel66/subway) <br><br>
 📜 [영화관 : 영화관 이용자 및 관리자의 편의성 증진](https://github.com/jihy1218/movie) <br><br>
@@ -27,3 +28,4 @@
 [![Minwook's github stats](https://github-readme-stats.vercel.app/api?username=vxel66)](https://github.com/vxel66)
 
 
+[googlelink]: https://google.com "Go google"
